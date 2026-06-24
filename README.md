@@ -91,7 +91,7 @@ aubmindlab/bert-base-arabertv02
 ---
 
 ## 📊 Results
-
+> ⚠️ Results below are from the final training run on Google Colab (T4 GPU).
 
 | Model | Accuracy | Macro Precision | Macro Recall | Macro F1 |
 |---|---|---|---|---|
